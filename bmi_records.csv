@@ -1,0 +1,8 @@
+Timestamp,Weight,Height,Gender,Age,Body_Fat_Percentage,BMI_Value,BMI_Category,Units_Used
+2025-07-22 00:05:17,185.0 lbs,83.0 inches,male,18,11.0,18.878647118594863,Normal weight,imperial
+2025-07-22 00:05:41,83.0 kg,184.0 cm,male,19,11.0,24.515595463137995,Normal weight,metric
+2025-07-24 12:38:06,83.0 kg,183.0 cm,male,19,11.0,24.78425751739377,Normal weight,metric
+2025-08-05 20:33:11,83.0 kg,181.0 cm,male,19,11.0,25.33500198406642,Overweight,metric
+2025-08-05 20:34:07,182.0 lbs,72.0 inches,male,19,11.0,24.680941358024693,Normal weight,imperial
+2025-08-05 20:36:40,83.0 kg,181.0 cm,male,11,11.0,25.33500198406642,Overweight,metric
+2025-08-05 20:37:26,83.0 kg,181.0 cm,male,19,11.0,25.33500198406642,Overweight,metric
